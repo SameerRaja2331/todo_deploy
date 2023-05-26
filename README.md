@@ -1,3 +1,6 @@
+Built an To-do Application with Authentication and different features using ReactJS Framework and deployed on web using Google Firebase
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
